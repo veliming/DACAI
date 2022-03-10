@@ -1,0 +1,9 @@
+<DrawPage name="数据记录说明" bk_transparent="0" bk_color="0;0;255" bk_image="Images\帮助\帮助单页.jpg"><item name="Button1" id="3" type="button" button_type="0" focus="0" notify_disable="0" key_code="a" key_type="0" init_state="0" button_style="0" longpress_delay="0" url_down="" url_up="" popup_menu_id="0" input_text_id="0" switch="数据记录" switch_effect="2" switch_area="0" switch_area_left="0" switch_area_right="0" switch_area_top="0" switch_area_bottom="0" action="" xOffset="3" yOffset="2" width="104" height="54" cut_up="0" cut_up_offset_x="0" cut_up_offset_y="0" cut_down="0" cut_down_offset_x="0" cut_down_offset_y="0" custom_data_up="" custom_data_down="" external_data_up="" external_data_down="" external_data_delay="100" child_screen="0" need_login="0" login_password="888888" show_text_state="0" font="7" font_color_up="255;255;255" font_color_down="255;255;255" text_state_up="" text_state_down="" bind_variant=""/><item name="Text1" id="4" type="text" multi_lang="1" text_align="0" text="void Record_SetEvent(uint16 screen_id,uint16 control_id,uint16 value,uint8 *time);//触发警告
+void Record_ResetEvent(uint16 screen_id,uint16 control_id,uint16 value,uint8 *time);//解除警告" text1="" text2="" text3="" text4="" text5="" text6="" text7="" text8="" text9="" font="8" encode="1" show_bk="0" fore_color="0;0;128" bk_color="255;255;255" xOffset="29" yOffset="360" width="703" height="111" row_gap="0" col_gap="0"/><item name="Text2" id="1" type="text" multi_lang="1" text_align="0" text="1.数据记录控件设置：
+记录类型设置成历史告警与解除时间，对应设置相应的告警事件；
+
+2.指令控制：
+通过发送相应的告警事件ID，将相应的告警事件指令调出来，然后发送给屏幕，数据记录控件会将时间ID转换成相应的告警事件输出；导出数据到SD卡的指令可以参考大彩指令集相关文档，调出相应的指令，添加到对内指令执行即可；
+
+3.MCU：
+接收到上位机进入数据记录画面指令后，向上位机发送警告指令或解除指令，API接口：" text1="" text2="" text3="" text4="" text5="" text6="" text7="" text8="" text9="" font="8" encode="1" show_bk="0" fore_color="0;0;0" bk_color="255;255;255" xOffset="26" yOffset="72" width="750" height="308" row_gap="0" col_gap="0"/></DrawPage>

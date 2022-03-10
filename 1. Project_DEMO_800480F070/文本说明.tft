@@ -1,0 +1,11 @@
+<DrawPage name="文本说明" bk_transparent="0" bk_color="0;0;255" bk_image="Images\帮助\帮助单页.jpg"><item name="Button1" id="3" type="button" button_type="0" focus="0" notify_disable="0" key_code="a" key_type="0" init_state="0" button_style="0" longpress_delay="0" url_down="" url_up="" popup_menu_id="0" input_text_id="0" switch="文本" switch_effect="2" switch_area="0" switch_area_left="0" switch_area_right="0" switch_area_top="0" switch_area_bottom="0" action="" xOffset="2" yOffset="2" width="105" height="57" cut_up="0" cut_up_offset_x="0" cut_up_offset_y="0" cut_down="0" cut_down_offset_x="0" cut_down_offset_y="0" custom_data_up="" custom_data_down="" external_data_up="" external_data_down="" external_data_delay="100" child_screen="0" need_login="0" login_password="888888" show_text_state="0" font="7" font_color_up="255;255;255" font_color_down="255;255;255" text_state_up="" text_state_down="" bind_variant=""/><item name="Text2" id="1" type="text" multi_lang="1" text_align="0" text="1.增量调节实现：
+通过文本控件增量调节指令实现，详细指令可见“大彩串口屏指令集”；
+
+2.更换文本控件背景的实现：
+文本控件的背景色，可以通过设置文本控件背景色指令实现；
+也可以在MCU中通过API函数往上位机发送数据修改：
+
+
+
+3.文本滚动的实现：
+通过设置文本控件滚动速度指令来实现，0像素表示不移动。" text1="" text2="" text3="" text4="" text5="" text6="" text7="" text8="" text9="" font="8" encode="1" show_bk="0" fore_color="0;0;0" bk_color="255;255;255" xOffset="37" yOffset="75" width="717" height="332" row_gap="0" col_gap="0"/><item name="Text1" id="2" type="text" multi_lang="1" text_align="0" text="void SetControlBackColor(uint16 screen_id,uint16 control_id,uint16 color)；" text1="" text2="" text3="" text4="" text5="" text6="" text7="" text8="" text9="" font="8" encode="0" show_bk="0" fore_color="0;0;128" bk_color="255;255;255" xOffset="42" yOffset="248" width="695" height="141" row_gap="0" col_gap="0"/></DrawPage>

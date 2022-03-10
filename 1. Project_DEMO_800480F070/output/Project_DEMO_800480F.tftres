@@ -1,0 +1,89 @@
+<Resource>
+    <pages>
+        <page name="主界面一" id="0" />
+        <page name="主界面二" id="1" />
+        <page name="主界面三" id="2" />
+        <page name="按钮" id="3" />
+        <page name="文本" id="4" />
+        <page name="进度条" id="5" />
+        <page name="仪表" id="6" />
+        <page name="滑块" id="7" />
+        <page name="时间" id="8" />
+        <page name="动画" id="9" />
+        <page name="图标" id="10" />
+        <page name="曲线" id="11" />
+        <page name="下拉菜单" id="12" />
+        <page name="选择控件" id="13" />
+        <page name="二维码" id="14" />
+        <page name="数据记录" id="15" />
+        <page name="历史曲线" id="16" />
+        <page name="音频" id="17" />
+        <page name="多语言" id="18" />
+        <page name="对话框" id="19" />
+        <page name="按钮说明" id="20" />
+        <page name="文本说明" id="21" />
+        <page name="进度条说明" id="22" />
+        <page name="仪表说明" id="23" />
+        <page name="滑块说明" id="24" />
+        <page name="二维码说明" id="25" />
+        <page name="数据记录说明" id="26" />
+        <page name="多语言说明" id="27" />
+        <page name="测试" id="28" />
+        <page name="白" id="29" />
+        <page name="红" id="30" />
+        <page name="蓝" id="31" />
+        <page name="灰阶" id="32" />
+        <page name="彩阶" id="33" />
+        <page name="字库查看" id="34" />
+        <page name="测试图片" id="35" />
+    </pages>
+    <images>
+        <image id="0" url="d:\work-ele\daicai\1. project_demo_800480f070\Images\主界面一\主界面一.jpg" effect_width="800" effect_height="480" />
+        <image id="1" url="d:\work-ele\daicai\1. project_demo_800480f070\Images\主界面一\主界面一_选中.jpg" effect_width="800" effect_height="480" />
+        <image id="2" url="d:\work-ele\daicai\1. project_demo_800480f070\Images\主界面二\主界面二.jpg" effect_width="800" effect_height="480" />
+        <image id="3" url="d:\work-ele\daicai\1. project_demo_800480f070\Images\主界面二\主界面二_选中.jpg" effect_width="800" effect_height="480" />
+        <image id="4" url="d:\work-ele\daicai\1. project_demo_800480f070\Images\主界面三\主界面三.jpg" effect_width="800" effect_height="480" />
+        <image id="5" url="d:\work-ele\daicai\1. project_demo_800480f070\Images\主界面三\主界面三_选中.jpg" effect_width="800" effect_height="480" />
+        <image id="6" url="d:\work-ele\daicai\1. project_demo_800480f070\Images\按钮\按钮_背景.jpg" effect_width="800" effect_height="480" />
+        <image id="7" url="d:\work-ele\daicai\1. project_demo_800480f070\Images\按钮\按钮_选中.jpg" effect_width="800" effect_height="480" />
+        <image id="8" url="d:\work-ele\daicai\1. project_demo_800480f070\Images\文本\文本_背景.jpg" effect_width="800" effect_height="480" />
+        <image id="9" url="d:\work-ele\daicai\1. project_demo_800480f070\Images\额外\文本_数码管艺术字.icon" effect_width="24" effect_height="36" />
+        <image id="10" url="d:\work-ele\daicai\1. project_demo_800480f070\Images\进度条\进度条背景.jpg" effect_width="800" effect_height="480" />
+        <image id="11" url="d:\work-ele\daicai\1. project_demo_800480f070\Images\进度条\进度条.png" effect_width="416" effect_height="22" />
+        <image id="12" url="d:\work-ele\daicai\1. project_demo_800480f070\Images\仪表\仪表_背景.jpg" effect_width="800" effect_height="480" />
+        <image id="13" url="d:\work-ele\daicai\1. project_demo_800480f070\Images\滑块\滑块_背景.jpg" effect_width="800" effect_height="480" />
+        <image id="14" url="d:\work-ele\daicai\1. project_demo_800480f070\Images\滑块\滑块进度条.png" effect_width="608" effect_height="15" />
+        <image id="15" url="d:\work-ele\daicai\1. project_demo_800480f070\Images\滑块\滑块_游标素材.png" effect_width="51" effect_height="52" />
+        <image id="16" url="d:\work-ele\daicai\1. project_demo_800480f070\Images\时间\时间_背景.jpg" effect_width="800" effect_height="480" />
+        <image id="17" url="d:\work-ele\daicai\1. project_demo_800480f070\Images\时间\时间_按下.jpg" effect_width="800" effect_height="480" />
+        <image id="18" url="d:\work-ele\daicai\1. project_demo_800480f070\Images\动画\动画_背景.jpg" effect_width="800" effect_height="480" />
+        <image id="19" url="d:\work-ele\daicai\1. project_demo_800480f070\Images\额外\动画_gif素材.gif" effect_width="555" effect_height="268" />
+        <image id="20" url="d:\work-ele\daicai\1. project_demo_800480f070\Images\图标\图标_背景.jpg" effect_width="800" effect_height="480" />
+        <image id="21" url="d:\work-ele\daicai\1. project_demo_800480f070\Images\额外\图标.ICON" effect_width="188" effect_height="184" />
+        <image id="22" url="d:\work-ele\daicai\1. project_demo_800480f070\Images\图标\图标_选中.jpg" effect_width="800" effect_height="480" />
+        <image id="23" url="d:\work-ele\daicai\1. project_demo_800480f070\Images\曲线\曲线_背景.jpg" effect_width="800" effect_height="480" />
+        <image id="24" url="d:\work-ele\daicai\1. project_demo_800480f070\Images\下拉菜单\下拉菜单_背景图.jpg" effect_width="800" effect_height="480" />
+        <image id="25" url="d:\work-ele\daicai\1. project_demo_800480f070\Images\下拉菜单\下拉菜单_菜单弹起效果图.png" effect_width="243" effect_height="211" />
+        <image id="26" url="d:\work-ele\daicai\1. project_demo_800480f070\Images\下拉菜单\下拉菜单_菜单按下效果图.png" effect_width="243" effect_height="211" />
+        <image id="27" url="d:\work-ele\daicai\1. project_demo_800480f070\Images\选择控件\选择控件.jpg" effect_width="800" effect_height="480" />
+        <image id="28" url="d:\work-ele\daicai\1. project_demo_800480f070\Images\选择控件\选择控件_按下.jpg" effect_width="800" effect_height="480" />
+        <image id="29" url="d:\work-ele\daicai\1. project_demo_800480f070\Images\二维码\二维码_背景.jpg" effect_width="800" effect_height="480" />
+        <image id="30" url="d:\work-ele\daicai\1. project_demo_800480f070\Images\额外\二维码_二维码图标.ICON" effect_width="47" effect_height="47" />
+        <image id="31" url="d:\work-ele\daicai\1. project_demo_800480f070\Images\数据记录\数据记录_背景.jpg" effect_width="800" effect_height="480" />
+        <image id="32" url="d:\work-ele\daicai\1. project_demo_800480f070\Images\数据记录\数据记录_选中.jpg" effect_width="800" effect_height="480" />
+        <image id="33" url="d:\work-ele\daicai\1. project_demo_800480f070\Images\历史曲线\历史曲线.jpg" effect_width="800" effect_height="480" />
+        <image id="34" url="d:\work-ele\daicai\1. project_demo_800480f070\Images\音频\音频_背景.jpg" effect_width="800" effect_height="480" />
+        <image id="35" url="d:\work-ele\daicai\1. project_demo_800480f070\Images\音频\音频_选中.jpg" effect_width="800" effect_height="480" />
+        <image id="36" url="d:\work-ele\daicai\1. project_demo_800480f070\Images\多语言\多语言_背景.jpg" effect_width="800" effect_height="480" />
+        <image id="37" url="d:\work-ele\daicai\1. project_demo_800480f070\Images\多语言\多语言_选中.jpg" effect_width="800" effect_height="480" />
+        <image id="38" url="d:\work-ele\daicai\1. project_demo_800480f070\Images\对话框\提示框.jpg" effect_width="489" effect_height="280" />
+        <image id="39" url="d:\work-ele\daicai\1. project_demo_800480f070\Images\帮助\帮助单页.jpg" effect_width="800" effect_height="480" />
+        <image id="40" url="d:\work-ele\daicai\1. project_demo_800480f070\Images\测试\测试背景.jpg" effect_width="800" effect_height="480" />
+        <image id="41" url="d:\work-ele\daicai\1. project_demo_800480f070\Images\测试\测试背景_选中.jpg" effect_width="800" effect_height="480" />
+        <image id="42" url="d:\work-ele\daicai\1. project_demo_800480f070\Images\测试\色阶.jpg" effect_width="800" effect_height="480" />
+        <image id="43" url="d:\work-ele\daicai\1. project_demo_800480f070\Images\测试\彩色色阶.jpg" effect_width="800" effect_height="480" />
+        <image id="44" url="d:\work-ele\daicai\1. project_demo_800480f070\Images\测试\测试背景一.jpg" effect_width="800" effect_height="480" />
+        <image id="45" url="d:\work-ele\daicai\1. project_demo_800480f070\Images\测试\测试图片.png" effect_width="800" effect_height="480" />
+    </images>
+    <waves />
+</Resource>

@@ -1,0 +1,11 @@
+<DrawPage name="进度条说明" bk_transparent="0" bk_color="0;0;255" bk_image="Images\帮助\帮助单页.jpg"><item name="Text1" id="1" type="text" multi_lang="1" text_align="0" text="可以通过按钮加减进度条的值，也可以拖动进度条增加减少值；进度条的值在变的时候，对应的文本框的值也跟着变。
+1.MCU下位机控制实现，功能函数如下：
+按钮控制进度条的值，具体实现查看例程函数：
+
+
+
+拖动进度条修改文本值，具体实现查看例程函数：" text1="" text2="" text3="" text4="" text5="" text6="" text7="" text8="" text9="" font="8" encode="1" show_bk="0" fore_color="0;0;0" bk_color="255;255;255" xOffset="31" yOffset="83" width="710" height="280" row_gap="0" col_gap="0"/><item name="Text2" id="3" type="text" multi_lang="1" text_align="0" text="
+void NotifyButton(uint16 screen_id, uint16 control_id, uint8  state)
+
+
+void NotifyProgress(uint16 screen_id, uint16 control_id, uint32 value)" text1="" text2="" text3="" text4="" text5="" text6="" text7="" text8="" text9="" font="8" encode="0" show_bk="0" fore_color="0;0;128" bk_color="255;255;255" xOffset="38" yOffset="167" width="694" height="225" row_gap="0" col_gap="0"/><item name="Button1" id="4" type="button" button_type="0" focus="0" notify_disable="0" key_code="a" key_type="0" init_state="0" button_style="0" longpress_delay="0" url_down="" url_up="" popup_menu_id="0" input_text_id="0" switch="进度条" switch_effect="2" switch_area="0" switch_area_left="0" switch_area_right="0" switch_area_top="0" switch_area_bottom="0" action="" xOffset="3" yOffset="3" width="105" height="54" cut_up="0" cut_up_offset_x="0" cut_up_offset_y="0" cut_down="0" cut_down_offset_x="0" cut_down_offset_y="0" custom_data_up="" custom_data_down="" external_data_up="" external_data_down="" external_data_delay="100" child_screen="0" need_login="0" login_password="888888" show_text_state="0" font="7" font_color_up="255;255;255" font_color_down="255;255;255" text_state_up="" text_state_down="" bind_variant=""/></DrawPage>

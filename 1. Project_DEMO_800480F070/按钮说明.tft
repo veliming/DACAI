@@ -1,0 +1,12 @@
+<DrawPage name="按钮说明" bk_transparent="0" bk_color="0;0;255" bk_image="Images\帮助\帮助单页.jpg"><item name="Button1" id="3" type="button" button_type="0" focus="0" notify_disable="0" key_code="a" key_type="0" init_state="0" button_style="0" longpress_delay="0" url_down="" url_up="" popup_menu_id="0" input_text_id="0" switch="按钮" switch_effect="2" switch_area="0" switch_area_left="0" switch_area_right="0" switch_area_top="0" switch_area_bottom="0" action="" xOffset="2" yOffset="3" width="105" height="54" cut_up="0" cut_up_offset_x="0" cut_up_offset_y="0" cut_down="0" cut_down_offset_x="0" cut_down_offset_y="0" custom_data_up="" custom_data_down="" external_data_up="" external_data_down="" external_data_delay="100" child_screen="0" need_login="0" login_password="888888" show_text_state="0" font="7" font_color_up="255;255;255" font_color_down="255;255;255" text_state_up="" text_state_down="" bind_variant=""/><item name="Text2" id="1" type="text" multi_lang="1" text_align="0" text="1.全开和全关功能实现：
+按钮控件设置成“开关”，就有两个状态：弹起/按下，通过修改按钮状态的指令实现全部按钮的开/关功能；
+2.单选按钮的实现：
+选中按钮，点击“编辑”-“开关按钮互斥”，互斥指令会自动生成；
+3.自定义指令和长按的实现：
+用户可以直接在按钮控件中对外指令中设置自定义指令，目前自定义指令格式为16进; 
+按钮的触控用途选择“开关描述”，风格选择“长按”即可。
+4.MCU控制：
+连上MCU后进入按钮画面亮起1路；参考代码：" text1="" text2="" text3="" text4="" text5="" text6="" text7="" text8="" text9="" font="8" encode="1" show_bk="0" fore_color="0;0;0" bk_color="255;255;255" xOffset="29" yOffset="73" width="736" height="294" row_gap="0" col_gap="0"/><item name="Text1" id="2" type="text" multi_lang="1" text_align="0" text="NotifyScreen(uint16 screen_id)  
+if(screen_id == 3){
+   SetButtonValue(3,1,1);
+}" text1="" text2="" text3="" text4="" text5="" text6="" text7="" text8="" text9="" font="8" encode="1" show_bk="0" fore_color="0;0;128" bk_color="255;255;255" xOffset="32" yOffset="343" width="491" height="101" row_gap="0" col_gap="0"/></DrawPage>
